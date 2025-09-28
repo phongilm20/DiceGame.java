@@ -15,7 +15,7 @@ This is a simple Java console application that calculates a running total of num
 
 ---
 
-## 🛠️ Technical Concepts Demonstrated
+## Technical Concepts Demonstrated
 
 - **Loops:** Utilizes a `while` loop to continuously accept user input until a specific condition (total >= 100) is met.
 - **Conditional Statements:** Uses `if` statements to control program flow and check the final state of the total.
